@@ -518,3 +518,13 @@ https://edge.enhdtv.com/8206/index.m3u8
 http://200.125.170.121:8000/play/a09j/index.m3u8
 #EXTINF:-1 tvg-id="MisionELTV.do@SD",Mision ELTV (720p)
 https://rd.tvabierta.net/live/misioneltv.m3u8
+#EXTINF:-1 tvg-id="TDNMedios.do@SD",TDN Medios (720p) [Not 24/7]
+https://castv10.plugstreaming.com:19360/tdntv/tdntv.m3u8
+#EXTINF:-1 tvg-id="LinierosTV.do@SD",Linieros TV (480p) [Not 24/7]
+https://soportedvb.click:3017/live/linierostvlive.m3u8
+#EXTINF:-1 tvg-id="NavarreteTelevision.do@HD",Navarrete Television (1080p) [Not 24/7]
+https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
+#EXTINF:-1 tvg-id="SantaCruzTV.do@HD",Santa Cruz TV (1080p) [Not 24/7]
+https://host.streamingnation.live/p/3345/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="AlgoMediaTV.do@HD",Algo Media TV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/algomediatv/tracks-v1a1/mono.m3u8

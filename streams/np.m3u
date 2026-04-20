@@ -13,3 +13,13 @@ http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
 http://103.180.240.141:8080/hls/main1/playlist.m3u8
 #EXTINF:-1 tvg-id="KantipurTV.np@SD",Kantipur TV (720p)
 http://103.213.31.109:90/KantipurPiracyHD/playlist.m3u8
+#EXTINF:-1 tvg-id="News24.np@SD",News 24 (1080p)
+http://maxotts.maxdigitaltv.com/x-media/C9/master.m3u8
+#EXTINF:-1 tvg-id="AP1TV.np@SD",AP1 TV (720p)
+http://maxotts.maxdigitaltv.com/x-media/C22/master.m3u8
+#EXTINF:-1 tvg-id="CityOneTelevision.np@SD",City One Television (1080p)
+http://maxotts.maxdigitaltv.com/x-media/C209/master.m3u8
+#EXTINF:-1 tvg-id="JMusicTV.np@SD",J Music TV (480p)
+http://maxotts.maxdigitaltv.com/x-media/C180/master.m3u8
+#EXTINF:-1 tvg-id="METVHD.np@SD",METV HD (1080p)
+http://maxotts.maxdigitaltv.com/x-media/C168/master.m3u8
